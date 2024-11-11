@@ -25,13 +25,15 @@
 
 I am a Java Software Developer from Ukraine 🇺🇦.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Engineer who contributes to the front end and back end of web applications.
 
 - :seedling: Graduated as an Applied mathematician 📚🔢.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oleksandr-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/olexandr-reshetar))
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/olexandr-reshetar" target="_blank">
+  <img src="https://img.shields.io/badge/-oleksandr-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 ---
 
