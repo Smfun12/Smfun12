@@ -25,7 +25,7 @@
 
 I am a Java Software Developer from Ukraine 🇺🇦.
 
-- :telescope: I’m a Software Engineer who contributes to the front end and back end of web applications.
+- :telescope: I’m a software engineer contributing to web applications' front and back end.
 
 - :seedling: Graduated as an Applied mathematician 📚🔢.
 
@@ -71,3 +71,4 @@ I am a Java Software Developer from Ukraine 🇺🇦.
 ### :writing_hand: Articles:
 
 📰 <a href="https://drive.google.com/file/d/1QcU-bdjPYIuLs44Y5bqj0m0MnXtMdV41/view?usp=sharing" target="_blank">Coreset Selection Methods</a>
+📰 <a href="https://drive.google.com/file/d/1-Q5gsIYOqgtbWFglKnLqQaZXvxl4YUUl/view?usp=drive_link" target="_blank">Python Parser</a>
