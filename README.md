@@ -71,4 +71,5 @@ I am a Java Software Developer from Ukraine 🇺🇦.
 ### :writing_hand: Articles:
 
 📰 <a href="https://drive.google.com/file/d/1QcU-bdjPYIuLs44Y5bqj0m0MnXtMdV41/view?usp=sharing" target="_blank">Coreset Selection Methods</a>
+<br>
 📰 <a href="https://drive.google.com/file/d/1-Q5gsIYOqgtbWFglKnLqQaZXvxl4YUUl/view?usp=drive_link" target="_blank">Python Parser</a>
